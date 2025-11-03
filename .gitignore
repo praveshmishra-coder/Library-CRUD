@@ -1,0 +1,62 @@
+# ------------------------------
+# Visual Studio & .NET settings
+# ------------------------------
+
+# Build results
+bin/
+obj/
+out/
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.userprefs
+*.rsuser
+
+# Logs
+*.log
+
+# Visual Studio settings
+.vs/
+
+# NuGet packages
+*.nupkg
+*.snupkg
+# Uncomment if you want to ignore downloaded packages
+# packages/
+
+# Visual Studio Code settings
+.vscode/
+
+# Generated files
+*.dll
+*.exe
+*.pdb
+*.cache
+*.config
+*.dbmdl
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+
+# Publish output
+publish/
+dist/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Environment variables / secrets
+.env
+appsettings.Development.json
+secrets.json
+
+# JetBrains Rider
+.idea/
+
+# macOS and Windows system files
+.DS_Store
+Thumbs.db
